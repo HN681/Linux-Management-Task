@@ -1,0 +1,8 @@
+HI Huzaifa Here
+lets create a file type with many files and arrange them into folder using python script
+thanks
+files are created now arrange them into their corresponding folder
+my txt file also arranged 
+this is how u can also manage ur file with in second 
+subscribe for more hacks and comment for ur problems
+Thank u
